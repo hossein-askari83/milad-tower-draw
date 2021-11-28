@@ -31,3 +31,10 @@ D:\works\c#\console app\milad tower\consoledraw2\obj\Debug\consoledraw2.csproj.A
 D:\works\c#\console app\milad tower\consoledraw2\obj\Debug\consoledraw2.csproj.CoreCompileInputs.cache
 D:\works\c#\console app\milad tower\consoledraw2\obj\Debug\consoledraw2.exe
 D:\works\c#\console app\milad tower\consoledraw2\obj\Debug\consoledraw2.pdb
+D:\projects\gitProject\consoledraw2\bin\Debug\consoledraw2.exe.config
+D:\projects\gitProject\consoledraw2\bin\Debug\consoledraw2.exe
+D:\projects\gitProject\consoledraw2\bin\Debug\consoledraw2.pdb
+D:\projects\gitProject\consoledraw2\obj\Debug\consoledraw2.csproj.AssemblyReference.cache
+D:\projects\gitProject\consoledraw2\obj\Debug\consoledraw2.csproj.CoreCompileInputs.cache
+D:\projects\gitProject\consoledraw2\obj\Debug\consoledraw2.exe
+D:\projects\gitProject\consoledraw2\obj\Debug\consoledraw2.pdb

@@ -69,6 +69,7 @@ namespace consoledraw2
             Console.WriteLine("  █████████████████████");
             Console.WriteLine("   ███████████████████");
             Console.WriteLine("    █████████████████");
+            Console.WriteLine("this is test");
             Console.ReadKey();
 
         }
